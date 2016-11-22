@@ -17,10 +17,10 @@ target/
 ######################
 
 # Windows image file caches
-Thumbs.db
+#Thumbs.db
 
 # Folder config file
-Desktop.ini
+#Desktop.ini
 
 
 ######################
@@ -32,7 +32,7 @@ tmp/**/*
 classes/**
 classes/**/*
 work/**
-work**/*
+work/**/*
 *.tmp
 *.bak
 *.swp
